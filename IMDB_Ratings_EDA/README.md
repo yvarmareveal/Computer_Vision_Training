@@ -2,7 +2,6 @@
 
 
 ##Overview
-
 This project explores IMDB ratings data to understand how different genres are rated by audiences.  
 The main objectives were to:
 - Clean and prepare the dataset
@@ -51,6 +50,7 @@ The main objectives were to:
 
 - **Reflection Answer:**  
   Genres like **Documentary, History, News, and Biography** consistently receive higher ratings. This may be becaue viewers prefer fact based genres 
+
 
 
 
